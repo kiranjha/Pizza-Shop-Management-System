@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 public class AddPizza extends javax.swing.JPanel {
 
     /**
-     * Creates new form AddPizza
+     * Creates new form AddPizza-----
      */
     String s1,s2,s3,s4,s5,s6;
     javax.swing.JTextField ltf5 = new javax.swing.JTextField();
